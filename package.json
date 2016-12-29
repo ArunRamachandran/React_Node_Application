@@ -1,0 +1,19 @@
+{
+  "name": "india-at-olympics",
+  "version": "1.0.0",
+  "description": "This is an open_source project to showcase indian olympics heroes to the rest of the world !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunRamachandran/React_Node_Application.git"
+  },
+  "author": "arun_ramachandran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArunRamachandran/React_Node_Application/issues"
+  },
+  "homepage": "https://github.com/ArunRamachandran/React_Node_Application#readme"
+}
